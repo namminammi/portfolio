@@ -4,9 +4,10 @@ export default function Home() {
   return (
     <main className="flex top-24 flex-col items-center justify-between p-24">
       <div className="bg-white z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
-        <h1 className="bg-white text-2xl font-semibold fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 pb-6 pt-8">
-        Nam Choi Portfolio
+        <h1 className="bg-white text-2xl font-semibold fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 pb-6 pt-8 text-center">
+        Nam Choi
         </h1>
+        <h2 className="bg-white text-2xl font-semibold fixed left-0 top-20 flex w-full justify-center border-b border-gray-300 pb-6 text-center"> Senior Front End UI Engineer</h2>
       </div>
 
 
