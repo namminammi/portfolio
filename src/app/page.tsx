@@ -10,7 +10,7 @@ export default function Home() {
         <h2 className="bg-white text-2xl font-semibold fixed left-0 top-20 flex w-full justify-center border-b border-gray-300 pb-6 text-center"> Senior Front End UI Engineer</h2>
       </div>
       <div className="pt-16 font-semibold ">
-        <p>Hi there, welcome! Feel free to check out some of Nam's client works.</p>
+        <p>Hi there, welcome! Feel free to check out some of client works Nam did.</p>
       </div>
       <div className="pt-6 mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
         <a
