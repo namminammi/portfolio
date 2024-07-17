@@ -112,7 +112,7 @@ export default function Home() {
           </ul>
         </a>
       </div>
-      <div className="fixed pt-4 bottom-0 w-full flex flex-col items-center justify-center bg-white text-sm">
+      <div className="fixed bottom-0 w-full flex flex-col items-center justify-center bg-white text-sm">
         <div className="flex justify-center lg:flex-row lg:justify-start text-lg">
           <a className="font-bold py-4 pr-12 hover:underline" href="https://www.linkedin.com/in/namchoi/" target="_blank">LinkedIn</a>
           <a className="font-bold py-4 hover:underline" href="https://github.com/namminammi" target="_blank">GitHub</a>
