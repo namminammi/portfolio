@@ -86,13 +86,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Earlier projects 💾 {" "}
+            Other works 💾 {" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <ul className="">
-            <li className="text-left">Links to other projects.</li>
+            <li className="text-left">Check out other client and personal works.</li>
           </ul>
         </a>
         <a
