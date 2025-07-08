@@ -1,7 +1,9 @@
+import Link from "next/link";
 import { AUTHOR, TITLE } from "./data/constants";
 export default function Navbar() {
   return (
     <>
+      <Link href="/">
       <div className="fixed flex flex-col bg-white z-20 w-full items-center justify-between font-mono text-sm lg:flex">
         <h1 className="text-4xl bg-white text-2xl font-semibold left-0 top-0 flex w-full justify-center pb-6 pt-8 text-center">
           {AUTHOR}
@@ -11,6 +13,7 @@ export default function Navbar() {
           {TITLE}
         </h2>
       </div>
+      </Link>
     </>
   );
 }
